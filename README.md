@@ -55,7 +55,7 @@ A web-based game of risk by:
 *Clone or download and extract to use, or click [here](https://jenasancartier.github.io/risk/) to view.*
 
 ### Support & Contact
-For questions or comments, please __email [J'ena](jenasancartier@gmail.com)__
+For questions or comments or job offers, please __email [J'ena](jenasancartier@gmail.com)__
 
 ### Known Issues
 * The program does not stop subtracting from troops if troop number hits 0
